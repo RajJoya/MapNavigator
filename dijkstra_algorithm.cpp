@@ -8,7 +8,7 @@
 #define V 28
   
 // A utility function to find the vertex with minimum distance value, from 
-// the set of vertices not yet included in shortest path tree 
+// the set of vertices not yet included in the shortest path tree 
 int minDistance(int dist[], bool sptSet[]) 
 { 
     // Initialize min value 
